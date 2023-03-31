@@ -1,0 +1,69 @@
+The given
+The supplied
+The shown
+
+Chart/graph/table/diagram/map/
+
+Shows/present/illustrates/compare/gives/describes/depicts/gives information
+
+Trend:
+    Adv:
+        rapidly/sharply/quickly
+        slightly/slowly/gradually/steadily
+
+    Adj:
+        rapid/remarkable/significant/dramatic/sharp
+        gradual/slight
+
+    N:
+        rise
+        growth
+        increament
+        drop
+
+    Verb:
+        rise (rose-risen)
+        grow (grew-grown)
+        climb
+        increase
+        rocket
+
+        decline
+        fall (fell-fallen)
+        dropped
+        decrease
+
+        stabilize
+        remain unchange
+
+Map:
+    Location
+        A is south-east of B
+        B is located/situated/found to the north-west of A
+    Changes
+        Change
+            developed/transformed
+            The shops were developed into more residential housing
+        Built
+            added/built/constructed
+            The shops were developed into more residential housing
+        Remove
+            replaced/removed/demolished
+
+Processes:
+    Time connective:
+        To begin with...
+        In the beginning...
+        Initially...
+
+        Next...
+        After that...
+        Following this...
+        At this point...
+
+        Finally...
+        Ultimately...
+
+        In the beginning, eggs are laid by an adult frog in the river.
+        After that, an embryo develops inside the egg.
+        Finally, the tadpole frog lose its tail and becomes an adult frog
