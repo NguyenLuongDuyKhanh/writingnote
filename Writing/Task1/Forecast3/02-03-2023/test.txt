@@ -1,0 +1,8 @@
+The given table depicts the production of milk annually sample in 1990, 2000, and 2010 in Netherlands, Australia, Tanzania, and Guatemala.
+
+Overall, milk production increased significantly in Tanzania and Guatemala. The Netherlands possesses the dominant amount of milk production compared to the other three countries.
+
+Milk production in Guatemala started at 26000 litres in 2000 then grew to 55000 in 2000, nearly twice as much as the beginning, followed by a remarkable growth of 29000 litres to ultimately stood at 8400 in 2010. The same increase was witnessed in Tanzania, its amount of milk production was 87000 initially, then raised to 142000 in 2000 and 155000 in 2010.
+
+The Netherlands and Australia have approximate the same amount of milk production in 1990, at 11262000 litres and 11246000 litres respectively. Then, production of milk in Australia decreased steadily and stood at 916500 in 2010, its lowest point throughout the period. In contrast, the Netherlands remained its upward trend in milk production to soared to 11155000 litres and 1146600 in 2010, also its highest point which made it the biggest milk producer among four regions
+

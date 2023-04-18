@@ -1,0 +1,7 @@
+The given bar chart depicts the expenditure on three categories namely food and drink, restaurant and hotel, and entertainment in five age ranges in the UK in 2004.
+
+Overall, food and drink expenses were the highest for the majority of age groups, followed by restaurant and hotel expenses and entertainment.
+
+Examining/Regarding/Considering the category of food and drink, residents in the age range of 76 and above/older possess the highest expenditures, approximately 23% of the total amount. The age group under 30 had the lowest expense in this category, at 2% of the total.
+
+On the other hand, the age group under 30 had the highest restaurant and hotel expenditures, at 14% of the total, while the age group 61-75 had the lowest, at 2% of the total. In contrast, people aged 61 to 75 tend to allocate roughly 23% of their expenses on entertainment, the highest among the whole age range.

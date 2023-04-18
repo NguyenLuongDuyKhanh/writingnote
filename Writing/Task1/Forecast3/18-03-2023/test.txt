@@ -1,0 +1,7 @@
+The given line graph illustrates the average house prices in 3 countries namely country A, country B, and country C from 1997 to 2014
+
+Overall, an upward trend in house prices is witnessed in all three countries throughout the period. House prices in country A are higher than the other two in the vast majority of samples.
+
+Houses in country A cost about 130k at the beginning then it increase slightly to 200K in 2000. A surge in average price is observed from 130k in 2000 to more than 500k in 2003, followed by a steady decline to about 450k in 2006. House prices then gently grew and peaked at the highest point at about 600k in 2014.
+
+Country B and Country C have their mean house prices are approximately 150k in 1997. House prices in country B increased to 375k in 2005 whereas that of country C rose to nearly 250k in 2007. A short decrease pull the mean price in country B to 250k, and in country C to 150 in 2008. House prices in country B and country C then grew slowly and ultimately stood at 500k and 250k respectively in 2014.
